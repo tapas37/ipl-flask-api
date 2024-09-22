@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/api_developement.iml" filepath="$PROJECT_DIR$/.idea/api_developement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_deveo/.idea/api_deveo.iml" filepath="$PROJECT_DIR$/../api_deveo/.idea/api_deveo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../week_5/flask/.idea/flask.iml" filepath="$PROJECT_DIR$/../../week_5/flask/.idea/flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../week_4/5_GUI/nlpapp/.idea/nlpapp.iml" filepath="$PROJECT_DIR$/../../week_4/5_GUI/nlpapp/.idea/nlpapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../showing_web_app/.idea/showing_web_app.iml" filepath="$PROJECT_DIR$/../showing_web_app/.idea/showing_web_app.iml" />
+    </modules>
+  </component>
+</project>
